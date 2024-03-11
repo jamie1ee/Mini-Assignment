@@ -1,0 +1,26 @@
+h2
+{
+  font-size: 40px;
+  font-family: 'Sniglet';
+  position: relative;
+  width: 600px;
+  left: 200px;
+  top: 100px;
+}
+h3
+{
+  font-family: 'Sniglet';
+  position: relative;
+  width: 600px;
+  left: 200px;
+  top: 90px;
+}
+.square{
+  position: absolute;
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  left: -1%;
+  top: 110px;
+  border-radius: 100%;
+}
