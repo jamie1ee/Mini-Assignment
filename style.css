@@ -1,19 +1,16 @@
-h2
+p
 {
-  font-size: 40px;
   font-family: 'Sniglet';
   position: relative;
   width: 600px;
-  left: 200px;
-  top: 100px;
+  left: 90px;
+  top: 20px;
+  text-indent: 20px;
+  padding: 20px;
 }
-h3
+body
 {
-  font-family: 'Sniglet';
-  position: relative;
-  width: 600px;
-  left: 200px;
-  top: 90px;
+  display: flex;
 }
 .square{
   position: absolute;
